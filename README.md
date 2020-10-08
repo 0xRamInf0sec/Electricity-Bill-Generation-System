@@ -1,5 +1,10 @@
 # Electricity-Bill-Generation-System
-This Project is Done using PHP,MYSQL,HTML,CSS,BOOTSTRAP.
+Our Team members:
+Gowsik
+Mahalakshmi
+Muthubharathi
+
+This Project is Done using PHP,MYSQL,HTML,CSS,BOOTSTRAP
 
 If you want to run this project on your system ,Your system needs xampp or wampp server.
 
