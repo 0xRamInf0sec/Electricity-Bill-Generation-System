@@ -1,8 +1,4 @@
 # Electricity-Bill-Generation-System
-Our Team members:
-Gowsik
-Mahalakshmi
-Muthubharathi
 
 This Project is Done using PHP,MYSQL,HTML,CSS,BOOTSTRAP
 
